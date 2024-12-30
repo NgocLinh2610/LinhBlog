@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimonials on </title>
+    <link>http://localhost:1313/testimonial/</link>
+    <description>Recent content in Testimonials on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Nov 2024 21:53:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/testimonial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graziella Nutella</title>
+      <link>http://localhost:1313/testimonial/graziella-nutella/</link>
+      <pubDate>Mon, 25 Nov 2024 21:53:18 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/graziella-nutella/</guid>
+      <description>&lt;p&gt;Làm việc với freelancer này là một trải nghiệm tuyệt vời. Họ luôn cung cấp công việc chất lượng cao, chú ý đến chi tiết và hiểu rõ yêu cầu dự án. Sự chuyên nghiệp và cam kết của họ thể hiện rõ trong từng nhiệm vụ.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dana Oneal</title>
+      <link>http://localhost:1313/testimonial/dana-oneal/</link>
+      <pubDate>Mon, 25 Nov 2024 21:50:45 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/dana-oneal/</guid>
+      <description>&lt;p&gt;Tôi đã làm việc với freelancer này trong vài dự án và họ luôn thể hiện sự chuyên nghiệp xuất sắc. Họ hiểu rõ yêu cầu và luôn hoàn thành công việc đúng hạn với chất lượng cao. Freelancer này là một đối tác đáng tin cậy và luôn vượt qua mong đợi. Tôi rất khuyến khích làm việc với họ.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ferdinand Shermand</title>
+      <link>http://localhost:1313/testimonial/ferdinand-shermand/</link>
+      <pubDate>Mon, 25 Nov 2024 21:30:46 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/ferdinand-shermand/</guid>
+      <description>&lt;p&gt;Làm việc với đồng nghiệp này là một trải nghiệm tuyệt vời. Sự chuyên nghiệp, tận tâm và khả năng hợp tác của họ luôn đảm bảo công việc được hoàn thành đúng hạn và đạt chất lượng cao. Họ là nguồn cảm hứng và đóng góp lớn vào thành công chung của đội ngũ.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
